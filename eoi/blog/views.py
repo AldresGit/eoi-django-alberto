@@ -24,3 +24,4 @@ class BlogDetailView(View):
             'blog/detail.html',
             {'post':post}
         )
+    
